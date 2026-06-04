@@ -1,0 +1,15 @@
+MSF Operations
+Details:
+Infra - Google Cloud, batch-level uploads
+Data Sensitivity - Anonymisation needed
+Analytics - Ad hoc
+Data Format - Semi-structured
+Latnecy - 24hr, not minute-level (Batch-level)
+
+Which Strategy? 
+ETL
+
+Why?
+The infrastructure most likely has larger storage capacity, which can support data hosting. 
+The patient data must be anonymised before its exposed to a central system which by itself mandates we transform the data to match expectations before storing. The issue of the data not being in one unified format can be fixed before storing so as to support an easier analysis later on. 
+Also the time needed to do this can be spared since we do not require analytics on a real-time basis.
