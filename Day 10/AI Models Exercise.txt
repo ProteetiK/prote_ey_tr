@@ -1,0 +1,24 @@
+Regulatory Update Review:
+1. GenAI Type: Document Intelligence
+2. Recommended Model: Claude 4 Sonnet
+3. Nexabank Domain: Compliance
+
+Fraud Alert narratives:
+1. GenAI Type: Natural Language Generation
+2. Recommended Model: GPT 4
+3. Nexabank Domain: Customer support
+
+Synthetic fraud training data:
+1. GenAI Type: Synthetic Data Generation
+2. Recommended Model: Tabular GAN
+3. Nexabank Domain: Fraud Detection
+
+Personalised Marketing Copy:
+1. GenAI Type: Natural Language Generation
+2. Recommended Model: GPT 4
+3. Nexabank Domain: Customer Service
+
+Developer Boilerplate generation:
+1. GenAI Type: AI Coding Assistant
+2. Recommended Model: Claude 4
+3. Nexabank Domain: Compliance
